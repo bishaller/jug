@@ -1,0 +1,18 @@
+/*!
+Theme Name: HTML Starter
+Theme URI: http://lastdoor.com/
+Author: Last Door Solutions
+Author URI: http://www.lastdoorsolutions.com
+Description: HTML Starter for lastdoor
+Version: 1.0.0
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+@import 'foundation/**/*.scss';
+@import 'defaults/**/*.scss';
+@import 'vendor/**/*.scss';
+@import 'wp-theme/**/*.scss';
+@import 'partials/**/*.scss';
+@import 'modules/**/*.scss';
