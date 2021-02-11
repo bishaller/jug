@@ -1,6 +1,6 @@
 # jug v1.0
 * Is a foundation template to start your website development.
-* Maintained & Updated by: **[Bishal Mishra](http://bishal.cc/)**
+* Maintained & Updated by: **[Bishal Mishra](http://twitter.com/bishaller)**
 
 
 ## About
